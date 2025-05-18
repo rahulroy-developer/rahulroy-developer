@@ -28,28 +28,33 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=RahulRoy172693&theme=vue&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&layout=compact&theme=vue&langs_count=8&hide_border=false" alt="Top Languages" />
+  <img style="width: 100%; max-width: 450px;" 
+       src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" 
+       alt="GitHub Stats" />
+  <br/><br/>
+  <img style="width: 100%; max-width: 450px;" 
+       src="https://streak-stats.demolab.com/?user=RahulRoy172693&theme=vue&hide_border=false" 
+       alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" alt="Top Languages by Commit" />
+  <img style="width: 100%; max-width: 700px;" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&layout=compact&theme=vue&langs_count=8&hide_border=false" 
+       alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img style="width: 100%; max-width: 350px;" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" 
+       alt="Top Languages by Repo" />
+  <img style="width: 100%; max-width: 350px;" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" 
+       alt="Top Languages by Commit" />
 </div>
 
 
