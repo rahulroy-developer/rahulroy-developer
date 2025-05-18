@@ -27,9 +27,22 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RahulRoy172693&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RahulRoy172693&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" alt="RahulRoy172693's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RahulRoy172693&include_all_commits=true&count_private=true&theme=vue&hide_border=false" alt="RahulRoy172693's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&include_all_commits=true&count_private=true&layout=compact&theme=vue&langs_count=8&hide_border=false" alt="RahulRoy172693's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&include_all_commits=true&count_private=true&theme=vue" alt="Most Used Languages by Repo Count" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&include_all_commits=true&count_private=true&theme=vue" alt="Most Used Languages by Commit" />
+</p>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RahulRoy172693&theme=radical&no-frame=false&no-bg=false&margin-w=4)
