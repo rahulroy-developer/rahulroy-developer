@@ -26,22 +26,18 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" alt="RahulRoy172693's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RahulRoy172693&include_all_commits=true&count_private=true&theme=vue&hide_border=false" alt="RahulRoy172693's GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulRoy172693&theme=vue" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulRoy172693&theme=vue" height="180px"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&include_all_commits=true&count_private=true&layout=compact&theme=vue&langs_count=8&hide_border=false" alt="RahulRoy172693's Top Languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&include_all_commits=true&count_private=true&theme=vue" alt="Most Used Languages by Repo Count" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&include_all_commits=true&count_private=true&theme=vue" alt="Most Used Languages by Commit" />
-</p>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" height="180px"/>
+</div>
 
 
 ## 🏆 GitHub Trophies
