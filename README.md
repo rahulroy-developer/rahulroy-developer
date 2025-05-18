@@ -28,21 +28,30 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=RahulRoy172693&theme=vue&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" alt="RahulRoy172693's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RahulRoy172693&theme=vue&hide_border=false" alt="RahulRoy172693's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&layout=compact&theme=vue&langs_count=8&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&layout=compact&theme=vue&langs_count=8&hide_border=false" alt="RahulRoy172693's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" alt="Top Languages by Commit" />
 </div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" alt="Most Used Languages by Repo Count" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" alt="Most Used Languages by Commit" />
-</p>
 
 
 
