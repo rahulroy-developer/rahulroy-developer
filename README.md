@@ -28,34 +28,20 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<div align="center">
-  <img style="width: 100%; max-width: 450px;" 
-       src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" 
-       alt="GitHub Stats" />
-  <br/><br/>
-  <img style="width: 100%; max-width: 450px;" 
-       src="https://streak-stats.demolab.com/?user=RahulRoy172693&theme=vue&hide_border=false" 
-       alt="GitHub Streak" />
+<br>
+<div align=center>
+  <img width=500 src="https://streak-stats.demolab.com/?user=RahulRoy172693&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&include_all_commits=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/>
+  <br/>
 
-<div align="center">
-  <img style="width: 100%; max-width: 700px;" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&layout=compact&theme=vue&langs_count=8&hide_border=false" 
-       alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" alt="Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" alt="Languages by Commit" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img style="width: 100%; max-width: 350px;" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" 
-       alt="Top Languages by Repo" />
-  <img style="width: 100%; max-width: 350px;" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" 
-       alt="Top Languages by Commit" />
-</div>
 
 
 
