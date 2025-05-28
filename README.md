@@ -30,16 +30,16 @@
 
 <br>
 <div align=center>
-  <img width=422 src="https://streak-stats.demolab.com/?user=RahulRoy172693&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=420 src="https://github-readme-stats.vercel.app/api?username=RahulRoy172693&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRoy172693&include_all_commits=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=422 src="https://streak-stats.demolab.com/?user=rahulroy-developer&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=rahulroy-developer&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroy-developer&include_all_commits=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
   <br/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulRoy172693&theme=vue" alt="Languages by Repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulRoy172693&theme=vue" alt="Languages by Commit" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=vue" alt="Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=vue" alt="Languages by Commit" />
 </p>
 
 
@@ -48,12 +48,12 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RahulRoy172693&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rahulroy-developer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RahulRoy172693&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rahulroy-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
