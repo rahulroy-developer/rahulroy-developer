@@ -1,5 +1,5 @@
 # 💫 Hello World!, I'm Rahul, a Enthusiastic Software Developer 👋:
-🎓 B.Sc Computer Science student at RKMVCC<br>💼 Former Software Developer Intern @ NIC – Built & optimized a ADMIN PANEL Module<br>🔧 Tech Stack: Angular, Node.js, .NET Core, PostgreSQL<br>📊 Interests: Full-Stack Development | AI/ML | Cybersecurity<br><br>🚀 What I’m Working On<br>Full-stack projects<br>Exploring Machine learning and Deep Learning with Python<br>Building secure and scalable web apps<br><br>📫 Let’s Collaborate<br>Open to internships, open-source projects, and learning-focused collaborations.<br>Reach out via LinkedIn or drop a message!<br>
+🎓 M.Sc Computer Science student at RKMVCC<br>💼 Former Software Developer Intern @ NIC – Built & optimized a ADMIN PANEL Module<br>🔧 Tech Stack: Angular, Node.js, .NET Core, PostgreSQL<br>📊 Interests: Full-Stack Development | AI/ML | Cybersecurity<br><br>🚀 What I’m Working On<br>Full-stack projects<br>Exploring Machine learning and Deep Learning with Python<br>Building secure and scalable web apps<br><br>📫 Let’s Collaborate<br>Open to internships, open-source projects, and learning-focused collaborations.<br>Reach out via LinkedIn or drop a message!<br>
 
 
 
