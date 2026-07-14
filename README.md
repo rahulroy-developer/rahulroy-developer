@@ -1,12 +1,60 @@
-# 💫 Hello World!, I'm Rahul, a Enthusiastic Software Developer 👋:
-🎓 M.Sc Computer Science student at RKMVCC<br>💼 Former Software Developer Intern @ NIC – Built & optimized a ADMIN PANEL Module<br>🔧 Tech Stack: Angular, Node.js, .NET Core, PostgreSQL<br>📊 Interests: Full-Stack Development | AI/ML | Cybersecurity<br><br>🚀 What I’m Working On<br>Full-stack projects<br>Exploring Machine learning and Deep Learning with Python<br>Building secure and scalable web apps<br><br>📫 Let’s Collaborate<br>Open to internships, open-source projects, and learning-focused collaborations.<br>Reach out via LinkedIn or drop a message!<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,191970,9400D3&height=250&section=header&text=Rahul%20Roy&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" width="100%" />
 
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Developer+specializing+in+MERN+Stack;Passionate+to+learn+about+Machine+Learning;Full-Stack+Engineer;BS-MS+CS+'27+@+RKMVCC" alt="Typing Profile" />
+  </a>
 
+  <br />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulroy-developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RahulRoy772103) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul.roy.polymath@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://rahulroyportfolio.netlify.app/)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Barrackpore%2C%20West%20Bengal-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /> <!--[cite: 1] -->
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Education-M.Sc%20Computer%20Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education" /> <!--[cite: 1] -->
+  </p>
 
+  <p align="center">
+    <a href="https://rahul1-portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-9400D3?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a> <!--[cite: 1] -->
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rahulroy-developer">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a> <!--[cite: 1] -->
+    &nbsp;&nbsp;
+    <a href="mailto:rahul.roy.polymath@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a> <!--[cite: 1] -->
+    &nbsp;&nbsp;
+    <a href="https://github.com/rahulroy-developer">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rahulroy-developer&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/rahulroy-developer?color=4B0082&style=flat-square&label=FOLLOWERS" alt="Followers" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/rahulroy-developer?color=9400D3&style=flat-square&label=STARS" alt="Stars" />
+  </p>
+</div>
+
+<br />
+
+---
+
+## 👨‍💻 About Me
+
+I am a Software Developer specializing in the MERN Stack and deeply passionate about learning Machine Learning, currently pursuing my M.Sc in Computer Science at Ramkrishna Mission Vivekananda Centenary College (RKMVCC)[cite: 1]. With a strong engineering mindset, I bring hands-on experience in full-stack development, having designed and optimized enterprise-level finance modules during my internship at the National Informatics Centre (NIC)[cite: 1]. 
+
+My technical foundation spans modern web architectures, API-driven scalable applications, and core algorithmic problem-solving using C++ and Java[cite: 1]. I thrive on building innovative solutions, integrating AI/ML capabilities into robust web applications, and continuously expanding my expertise in areas like data preprocessing, feature engineering, and predictive modeling[cite: 1].
+
+**Open To:** Seeking remote software engineering roles or internships where I can contribute to cutting-edge technology advancements in software development, AI, and machine learning[cite: 1].
+
+---
+
+## 🛠️ Tech Stack
 ## 💻 Tech Stack
 
 **Languages**
@@ -58,35 +106,197 @@
 **Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-<h2 align="center">📊 GitHub Stats:</h2>
 
-<br>
-<div align=center>
-  <img width=432 src="https://streak-stats.demolab.com/?user=rahulroy-developer&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=rahulroy-developer&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 align="center" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroy-developer&include_all_commits=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br />
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Applied Analytics & ML** | Advanced | Implementation of ML algorithms, data preprocessing, feature engineering, and model evaluation using real datasets[cite: 1]. |
+| **Intelligent Systems** | Intermediate | Core AI concepts emphasizing optimization, problem-solving, and integrating models into full-stack web applications[cite: 1]. |
+| **AI Text Detection** | Intermediate | Architecting systems and utilizing NLP datasets to accurately classify and differentiate AI-generated text from human-written content. |
+| **Quantum Computing** | Foundational | Exposure to quantum algorithms, qubits, and quantum logic gates to understand next-generation computational capabilities[cite: 1]. |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>💼 IFMS Admin Module Optimization</b></summary>
+<br />
+
+Developed and optimized an enterprise-level financial management admin module during an internship at the National Informatics Centre (NIC), enhancing overall system performance and user experience[cite: 1].
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Angular, .NET Core, PostgreSQL | Enterprise | Optimized API load times | Auth & RBAC | Streamlined financial operations for administrators[cite: 1]. | Private / NIC |
+
+*Professional Focus: Emphasized robust full-stack development, effective debugging, and team collaboration to meet stringent industry standards[cite: 1].*
+
+</details>
+
+<details>
+<summary><b>🏦 CLI-Based Java Banking System</b></summary>
+<br />
+
+Architected a comprehensive Command-Line Interface banking application utilizing core Object-Oriented Programming principles to simulate real-world financial transactions, account management, and state persistence.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Java, Spring Boot | Solo Project | O(1) Lookups | Input Sanitization | Demonstrated strict OOP and system design patterns | [View Repository](#) |
+
+*Professional Focus: Structured with professional README documentation, structured `.gitignore`, and modular architecture for seamless scalability.*
+
+</details>
+
+<details>
+<summary><b>🤖 AI-Generated Text Detection System</b></summary>
+<br />
+
+Designed an AI classification system aimed at identifying whether a given piece of text is human-written or generated by Large Language Models, utilizing modern datasets and ML classification algorithms.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python, ML, NLP | Academic Project | High F1-Score | Data Privacy | Assists educators in verifying the authenticity of submitted text | [View Repository](#) |
+
+*Professional Focus: Implemented rigorous data preprocessing, feature engineering, and model evaluation pipelines to ensure high accuracy and low false-positive rates.*
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Postgraduate Student**  
+*Ramkrishna Mission Vivekananda Centenary College (RKMVCC)*  
+August 2025 - Present (Expected June 2027)[cite: 1]  
+* Pursuing an MSc with a strong focus on Machine Learning, Data Science, and Artificial Intelligence, combining theory with hands-on implementation[cite: 1].
+* Gained practical experience in ML algorithms, data preprocessing, and model evaluation[cite: 1].
+* Developing scalable, API-driven full-stack web applications utilizing the MERN stack[cite: 1].
+* `Machine Learning` `Data Science` `MERN Stack` `Quantum Computing` `AI`[cite: 1]
+
+**Software Developer Intern**  
+*National Informatics Centre, MeitY*  
+June 2024 - July 2024[cite: 1]  
+* Contributed to the development and optimization of an IFMS Admin module utilizing Angular and .NET Core[cite: 1].
+* Collaborated directly with the engineering team to implement scalable features and enhance overall application performance[cite: 1].
+* Developed robust problem-solving skills by addressing technical challenges through intensive testing and debugging[cite: 1].
+* `Angular` `.NET Core` `PostgreSQL` `Full Stack Development` `Debugging`[cite: 1]
+
+**Undergraduate Student (B.Sc Computer Science)**  
+*Ramkrishna Mission Vivekananda Centenary College (RKMVCC)*  
+July 2022 - July 2025[cite: 1]  
+* Developed a strong foundational understanding of software development, machine learning, and AI[cite: 1].
+* `Data Structures` `Algorithms` `C++` `Java` `Problem Solving`[cite: 1]
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **Tech Fest Organizer & Leader** | Managed a team of participants and fostered networking at a regional tech fest, enhancing communication and leadership within the tech community[cite: 1]. |
+| **Competitive Programming** | Consistent engagement and algorithmic problem solving on platforms like LeetCode and Codeforces, primarily using C++. |
+
 </div>
 
-  <br/>
+---
 
+## 📜 Certifications
+
+<div align="center">
+  
+### IIT Bombay
+<img src="https://img.shields.io/badge/Python_3.4.3-Spoken_Tutorial_Project-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="IIT Bombay Certification" /> <!--[cite: 1] -->
+
+### Data Science
+<img src="https://img.shields.io/badge/Data_Science-Machine_Learning-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="DS Certification" /> <!--[cite: 1] -->
+
+</div>
+
+---
+
+## 🧑‍💻 Coding Profiles
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</div>
+
+<br />
+
+---
+
+## 📊 GitHub Analytics
+
+<div align=center>
+  <img width=432 src="https://streak-stats.demolab.com/?user=rahulroy-developer&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=400 src="https://github-stats-extended.vercel.app/api?username=rahulroy-developer&show_icons=true&include_all_commits=true"/>
+  <img width=390 align="center" 
+   src="https://github-stats-extended.vercel.app/api/top-langs?username=rahulroy-developer&include_all_commits=true&langs_count=4"/>
+</div>
+<br />
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=vue" alt="Languages by Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=vue" alt="Languages by Commit" />
 </p>
 
-
-
-
-
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulroy-developer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulroy-developer&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</a>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulroy-developer&bg_color=0D1117&color=8A2BE2&line=4B0082&point=9400D3&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahulroy-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning: 
+  - Advanced Machine Learning & Predictive Modeling
+  - AI-generated text detection & NLP Architectures
+building: 
+  - Scalable, API-driven web applications using MERN stack
+  - Secure CLI-based financial and banking systems in Java
+exploring: 
+  - Quantum Computing algorithms & Qubits
+open_to: 
+  - Remote Software Developer roles or Internships (Available May 2026)
