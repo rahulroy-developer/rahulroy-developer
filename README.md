@@ -8,23 +8,23 @@
   <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Barrackpore%2C%20West%20Bengal-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /> <!--[cite: 1] -->
+    <img src="https://img.shields.io/badge/Location-Barrackpore%2C%20West%20Bengal-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /> 
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Education-M.Sc%20Computer%20Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education" /> <!--[cite: 1] -->
+    <img src="https://img.shields.io/badge/Education-M.Sc%20Computer%20Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education" /> 
   </p>
 
   <p align="center">
     <a href="https://rahul1-portfolio.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-9400D3?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-    </a> <!--[cite: 1] -->
+    </a> 
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/rahulroy-developer">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a> <!--[cite: 1] -->
+    </a> 
     &nbsp;&nbsp;
     <a href="mailto:rahul.roy.polymath@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a> <!--[cite: 1] -->
+    </a> 
     &nbsp;&nbsp;
     <a href="https://github.com/rahulroy-developer">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -46,15 +46,14 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Developer specializing in the MERN Stack and deeply passionate about learning Machine Learning, currently pursuing my M.Sc in Computer Science at Ramkrishna Mission Vivekananda Centenary College (RKMVCC)[cite: 1]. With a strong engineering mindset, I bring hands-on experience in full-stack development, having designed and optimized enterprise-level finance modules during my internship at the National Informatics Centre (NIC)[cite: 1]. 
+I am a Software Developer specializing in the MERN Stack and deeply passionate about learning Machine Learning, currently pursuing my M.Sc in Computer Science at Ramkrishna Mission Vivekananda Centenary College (RKMVCC). With a strong engineering mindset, I bring hands-on experience in full-stack development, having designed and optimized enterprise-level finance modules during my internship at the National Informatics Centre (NIC). 
 
-My technical foundation spans modern web architectures, API-driven scalable applications, and core algorithmic problem-solving using C++ and Java[cite: 1]. I thrive on building innovative solutions, integrating AI/ML capabilities into robust web applications, and continuously expanding my expertise in areas like data preprocessing, feature engineering, and predictive modeling[cite: 1].
+My technical foundation spans modern web architectures, API-driven scalable applications, and core algorithmic problem-solving using C++ and Java. I thrive on building innovative solutions, integrating AI/ML capabilities into robust web applications, and continuously expanding my expertise in areas like data preprocessing, feature engineering, and predictive modeling.
 
-**Open To:** Seeking remote software engineering roles or internships where I can contribute to cutting-edge technology advancements in software development, AI, and machine learning[cite: 1].
+**Open To:** Seeking remote software engineering roles or internships where I can contribute to cutting-edge technology advancements in software development, AI, and machine learning.
 
 ---
 
-## 🛠️ Tech Stack
 ## 💻 Tech Stack
 
 **Languages**
@@ -115,10 +114,10 @@ My technical foundation spans modern web architectures, API-driven scalable appl
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Applied Analytics & ML** | Advanced | Implementation of ML algorithms, data preprocessing, feature engineering, and model evaluation using real datasets[cite: 1]. |
-| **Intelligent Systems** | Intermediate | Core AI concepts emphasizing optimization, problem-solving, and integrating models into full-stack web applications[cite: 1]. |
+| **Applied Analytics & ML** | Advanced | Implementation of ML algorithms, data preprocessing, feature engineering, and model evaluation using real datasets. |
+| **Intelligent Systems** | Intermediate | Core AI concepts emphasizing optimization, problem-solving, and integrating models into full-stack web applications. |
 | **AI Text Detection** | Intermediate | Architecting systems and utilizing NLP datasets to accurately classify and differentiate AI-generated text from human-written content. |
-| **Quantum Computing** | Foundational | Exposure to quantum algorithms, qubits, and quantum logic gates to understand next-generation computational capabilities[cite: 1]. |
+| **Quantum Computing** | Foundational | Exposure to quantum algorithms, qubits, and quantum logic gates to understand next-generation computational capabilities. |
 
 ---
 
@@ -128,13 +127,13 @@ My technical foundation spans modern web architectures, API-driven scalable appl
 <summary><b>💼 IFMS Admin Module Optimization</b></summary>
 <br />
 
-Developed and optimized an enterprise-level financial management admin module during an internship at the National Informatics Centre (NIC), enhancing overall system performance and user experience[cite: 1].
+Developed and optimized an enterprise-level financial management admin module during an internship at the National Informatics Centre (NIC), enhancing overall system performance and user experience.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Angular, .NET Core, PostgreSQL | Enterprise | Optimized API load times | Auth & RBAC | Streamlined financial operations for administrators[cite: 1]. | Private / NIC |
+| Angular, .NET Core, PostgreSQL | Enterprise | Optimized API load times | Auth & RBAC | Streamlined financial operations for administrators. | Private / NIC |
 
-*Professional Focus: Emphasized robust full-stack development, effective debugging, and team collaboration to meet stringent industry standards[cite: 1].*
+*Professional Focus: Emphasized robust full-stack development, effective debugging, and team collaboration to meet stringent industry standards.*
 
 </details>
 
@@ -172,25 +171,25 @@ Designed an AI classification system aimed at identifying whether a given piece 
 
 **Postgraduate Student**  
 *Ramkrishna Mission Vivekananda Centenary College (RKMVCC)*  
-August 2025 - Present (Expected June 2027)[cite: 1]  
-* Pursuing an MSc with a strong focus on Machine Learning, Data Science, and Artificial Intelligence, combining theory with hands-on implementation[cite: 1].
-* Gained practical experience in ML algorithms, data preprocessing, and model evaluation[cite: 1].
-* Developing scalable, API-driven full-stack web applications utilizing the MERN stack[cite: 1].
-* `Machine Learning` `Data Science` `MERN Stack` `Quantum Computing` `AI`[cite: 1]
+August 2025 - Present (Expected June 2027)  
+* Pursuing an MSc with a strong focus on Machine Learning, Data Science, and Artificial Intelligence, combining theory with hands-on implementation.
+* Gained practical experience in ML algorithms, data preprocessing, and model evaluation.
+* Developing scalable, API-driven full-stack web applications utilizing the MERN stack.
+* `Machine Learning` `Data Science` `MERN Stack` `Quantum Computing` `AI`
 
 **Software Developer Intern**  
 *National Informatics Centre, MeitY*  
-June 2024 - July 2024[cite: 1]  
-* Contributed to the development and optimization of an IFMS Admin module utilizing Angular and .NET Core[cite: 1].
-* Collaborated directly with the engineering team to implement scalable features and enhance overall application performance[cite: 1].
-* Developed robust problem-solving skills by addressing technical challenges through intensive testing and debugging[cite: 1].
-* `Angular` `.NET Core` `PostgreSQL` `Full Stack Development` `Debugging`[cite: 1]
+June 2024 - July 2024  
+* Contributed to the development and optimization of an IFMS Admin module utilizing Angular and .NET Core.
+* Collaborated directly with the engineering team to implement scalable features and enhance overall application performance.
+* Developed robust problem-solving skills by addressing technical challenges through intensive testing and debugging.
+* `Angular` `.NET Core` `PostgreSQL` `Full Stack Development` `Debugging`
 
 **Undergraduate Student (B.Sc Computer Science)**  
 *Ramkrishna Mission Vivekananda Centenary College (RKMVCC)*  
-July 2022 - July 2025[cite: 1]  
-* Developed a strong foundational understanding of software development, machine learning, and AI[cite: 1].
-* `Data Structures` `Algorithms` `C++` `Java` `Problem Solving`[cite: 1]
+July 2022 - July 2025  
+* Developed a strong foundational understanding of software development, machine learning, and AI.
+* `Data Structures` `Algorithms` `C++` `Java` `Problem Solving`
 
 ---
 
@@ -200,7 +199,7 @@ July 2022 - July 2025[cite: 1]
 
 | Recognition | Details |
 | :--- | :--- |
-| **Tech Fest Organizer & Leader** | Managed a team of participants and fostered networking at a regional tech fest, enhancing communication and leadership within the tech community[cite: 1]. |
+| **Tech Fest Organizer & Leader** | Managed a team of participants and fostered networking at a regional tech fest, enhancing communication and leadership within the tech community. |
 | **Competitive Programming** | Consistent engagement and algorithmic problem solving on platforms like LeetCode and Codeforces, primarily using C++. |
 
 </div>
@@ -210,12 +209,12 @@ July 2022 - July 2025[cite: 1]
 ## 📜 Certifications
 
 <div align="center">
-  
-### IIT Bombay
-<img src="https://img.shields.io/badge/Python_3.4.3-Spoken_Tutorial_Project-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="IIT Bombay Certification" /> <!--[cite: 1] -->
 
-### Data Science
-<img src="https://img.shields.io/badge/Data_Science-Machine_Learning-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="DS Certification" /> <!--[cite: 1] -->
+| Provider / Category | Certification Badge |
+| :--- | :--- |
+| **IIT Bombay** | <img src="https://img.shields.io/badge/Python_3.4.3-Spoken_Tutorial_Project-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="IIT Bombay Certification" /> |
+| **Data Science** | <img src="https://img.shields.io/badge/Data_Science-Machine_Learning-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="DS Certification" /> |
+| **Cisco** | <img src="https://img.shields.io/badge/IoT_Security-Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IoT Security Certification" /> |
 
 </div>
 
@@ -266,6 +265,7 @@ July 2022 - July 2025[cite: 1]
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulroy-developer&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </a>
+
 ---
 
 ## 📈 Contribution Activity
@@ -286,7 +286,9 @@ July 2022 - July 2025[cite: 1]
 </div>
 
 ---
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 ## 🎯 Current Focus
 
 ```yaml
