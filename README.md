@@ -220,14 +220,27 @@ July 2022 - July 2025
 
 ---
 
+## 🏅 LeetCode Badges
+
+<div align="center"> 
+
+<p align="center">
+  <a href="https://leetcode.com/u/RahulRoy285/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="50 Days Badge" height="200" width="200" />
+  </a>
+</p>
+</div>
+  
+---
+
 ## 🧑‍💻 Coding Profiles
 
 <div align="center">
-  <a href="#">
+  <a href="https://leetcode.com/u/RahulRoy285/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://codeforces.com/profile/RahulRoy_codes">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   &nbsp;
@@ -235,7 +248,7 @@ July 2022 - July 2025
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://www.geeksforgeeks.org/profile/rahulroyphwyc?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
@@ -252,11 +265,12 @@ July 2022 - July 2025
   <img width=390 align="center" 
    src="https://github-stats-extended.vercel.app/api/top-langs?username=rahulroy-developer&include_all_commits=true&langs_count=4"/>
 </div>
+
 <br />
-<p align="center">
+<!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=vue" alt="Languages by Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=vue" alt="Languages by Commit" />
-</p>
+</p> -->
 
 ---
 
