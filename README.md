@@ -262,14 +262,31 @@ July 2022 - July 2025
 
 ## 📊 GitHub Analytics
 
-<div align=center>
+<!-- <div align=center>
   <img width=432 src="https://streak-stats.demolab.com/?user=rahulroy-developer&include_all_commits=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=400 src="https://github-stats-extended.vercel.app/api?username=rahulroy-developer&show_icons=true&include_all_commits=true"/>
   <img width=390 align="center" 
    src="https://github-stats-extended.vercel.app/api/top-langs?username=rahulroy-developer&include_all_commits=true&langs_count=4"/>
+</div> -->
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulroy-developer&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulroy-developer&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulroy-developer&theme=radical&utcOffset=8">
+<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=rahulroy-developer&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulroy-developer&theme=radical">
+
 </div>
 
-<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroy-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
+
+
+
+</div><br>
+
 <!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=vue" alt="Languages by Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=vue" alt="Languages by Commit" />
