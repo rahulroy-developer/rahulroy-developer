@@ -116,8 +116,8 @@ My technical foundation spans modern web architectures, API-driven scalable appl
 | :--- | :---: | :--- |
 | **Applied Analytics & ML** | Advanced | Implementation of ML algorithms, data preprocessing, feature engineering, and model evaluation using real datasets. |
 | **Intelligent Systems** | Intermediate | Core AI concepts emphasizing optimization, problem-solving, and integrating models into full-stack web applications. |
-| **AI Text Detection** | Intermediate | Architecting systems and utilizing NLP datasets to accurately classify and differentiate AI-generated text from human-written content. |
-| **Quantum Computing** | Foundational | Exposure to quantum algorithms, qubits, and quantum logic gates to understand next-generation computational capabilities. |
+| **Emotion Detection System** | Intermediate | Enables real-time sentiment analysis to enhance human-computer interaction (HCI). |
+| **Quantum Computing** | Foundational | Exposure to quantum algorithms, qubits, and quantum logic gates to understand next-generation computational capabilities.|
 
 ---
 
