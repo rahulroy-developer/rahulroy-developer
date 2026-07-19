@@ -296,7 +296,7 @@ July 2022 - July 2025
 
 ## 🏆 GitHub Trophies
 
-<a href="https://github.com/rahulroy-developer/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=rahulroy-developer&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </a>
 
