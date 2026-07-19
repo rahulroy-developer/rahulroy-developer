@@ -270,27 +270,27 @@ July 2022 - July 2025
 </div> -->
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulroy-developer&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulroy-developer&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulroy-developer&theme=radical&utcOffset=8">
-<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=rahulroy-developer&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulroy-developer&theme=radical">
+  <!-- Row 1: Profile Details & Stats -->
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulroy-developer&theme=radical" alt="Profile Details" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulroy-developer&theme=radical" alt="Stats" />
+  
+  <br />
+
+  <!-- Row 2: Repos, Commits, & Time -->
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=radical" alt="Repos per Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=radical" alt="Most Commit Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulroy-developer&theme=radical&utcOffset=8" alt="Productive Time" />
+  
+  <br />
+
+  <!-- Row 3: Streak Stats & Most Used Languages -->
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulroy-developer&theme=radical" alt="Streak Stats" />
+  &nbsp;
+  <img height="169em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulroy-developer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroy-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-
-
-
-
-</div><br>
-
-<!-- <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulroy-developer&theme=vue" alt="Languages by Repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulroy-developer&theme=vue" alt="Languages by Commit" />
-</p> -->
+<br>
 
 ---
 
