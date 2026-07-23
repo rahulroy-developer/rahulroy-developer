@@ -286,7 +286,7 @@ July 2022 - July 2025
   <!-- Row 3: Streak Stats & Most Used Languages -->
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulroy-developer&theme=radical" alt="Streak Stats" />
   &nbsp;
-  <img height="169em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulroy-developer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+  <img height="169em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulroy-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
 
 </div>
 
