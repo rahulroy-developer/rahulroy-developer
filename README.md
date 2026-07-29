@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,191970,9400D3&height=250&section=header&text=Rahul%20Roy&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" width="100%" />
-
+  
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Developer+specializing+in+MERN+Stack;Passionate+to+learn+about+Machine+Learning+AI;Full-Stack+Developer;BS-MS+CS+'27+@+RKMVCC" alt="Typing Profile" />
   </a>
