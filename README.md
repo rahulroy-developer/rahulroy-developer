@@ -4,7 +4,6 @@
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Software+Developer+specializing+in+MERN+Stack;Passionate+to+learn+about+Machine+Learning+AI;Full-Stack+Developer;BS-MS+CS+'27+@+RKMVCC" alt="Typing Profile" />
   </a>
-
   <br />
 
   <p align="center">
